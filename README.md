@@ -1,21 +1,23 @@
-# Project Title
+# FIRST PROJECT
 
-## Forkthis Repo for Practice
+## Primul Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### AlexB ...... By Me
 
 ### Description
 
-Create a description and fill it in here.
+Mega prim proiect.
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+Used for this repo:
+git bash
+vscode
+js
 
 ### Known Bugs
 
-Are there any? If so what are they?
+Don't know yet
 
 ## License
 
