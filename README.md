@@ -6,14 +6,14 @@
 
 ### Description
 
-Mega prim proiect.
+First Mega project :).
 
-## Languages used
+## What was used
 
 Used for this repo:
-git bash
-vscode
-js
+* git bash
+* vscode
+* js
 
 ### Known Bugs
 
